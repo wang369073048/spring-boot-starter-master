@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/spring-boot-mybatis-annotation-mulidatasource.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/spring-boot-mybatis-annotation-mulidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/spring-boot-mybatis-mulidatasource.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/spring-boot-mybatis-mulidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-starter-master.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-starter-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-helloWorld/springBoot.iml" filepath="$PROJECT_DIR$/spring-boot-helloWorld/springBoot.iml" />
+    </modules>
+  </component>
+</project>
